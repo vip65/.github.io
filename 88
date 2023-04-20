@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>在网页上随机网页链接</title>
+<script language="javascript">
+<!--
+url = new Array();
+url[0]="https://cn.bing.com/";
+url[1]="https://www.sogou.com/";
+url[2]="http://www.baidu.com";
+i=Math.random() * url.length;
+i=Math.floor(i);
+str ="<a id='linkID'href='"+ url[i] +"'>";
+-->
+</script>
+</head>
+<body>
+<script language="javascript">
+<!--
+    document.write(str+"点我跳转到下面的链接的网页。</a><br>");
+    document.write(linkID.href);
+//-->
+</script>
+</body>
+</html>
