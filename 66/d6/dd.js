@@ -23,7 +23,7 @@
 var sj = aa[Math.floor(Math.random()*aa.length)];
 
 function setCookie(name,value){
-  var Days = 30;
+  var Days = 1;
   var exp = new Date();
   exp.setTime(exp.getTime() + 10*100);
   document.cookie = name + "="+ escape (value) + ";expires=" + exp.toGMTString();
