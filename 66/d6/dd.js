@@ -47,6 +47,22 @@
     'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM3OTIzNzI2OTk5MDgxMzcvbXBzL2FiODYwMmRkODlkNDQ3YzM4MzI1Njk2ODc1OTI1MGViMTEyMjM5Lm1wNA',
     'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM3OTQxMjM3NzU2OTI4MTEvbXBzLzNhOWY1ZTQzOTQxNDRmYTQ5ODU3ZWYwMzllYjU3NTUyMTEyNzU1Lm1wNA',
     'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM3OTk1ODQzNzYyNDQyMjUvbXBzL2U4Y2MzNGQ3YTIwNTRlNzliOGIzZjIyZWM0NTc3ODdkMTEzMDEzLm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MDA2MDk4MDU4NDU1MjkvbXBzLzg5ZTVmMjA0YmU4YTRhYTZiODUyNzg3ZWZiZTEyMTc2MTEzOTE2Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MDM3Njc4NTM4MjgxODAvbXBzL2M4NDk4MDJhMzg1YjQyNmQ4Nzc2Y2ZhMjM2MjBjYWE5MTE0NDIwLm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MDQ3NzU2MDI3MzYyMjIvbXBzLzE2MDAwOTJkZTUzMDRhYjFiNjcyOTEwZDM5NjhiNjJkMTE0OTEyLm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTA4NjE5NTQ3NzkxNTIvbXBzLzhlNmIxOTUxOGNhYzRkMjBhMjJmMTA5MDZkMDg0ZjY5MTE2NDA3Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTEwNzA5MzM4ODA4NTYvbXBzLzM5MjdhZWFkNjhmYzRmOWZiMmUzZGY4ZTI1ODkzNTdlMTE2MjgwLm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTEzMTE5OTk2NjcyMDEvbXBzLzRhMTVhZTZiNjdhNTQ5ODJiMjU0Njg3MjcxMjE1OTdiMTE2NjM5Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTI4MzU4MzI2NDc3MDMvbXBzL2IyODMxOWVmOWU4NzRhMDZiMWYzYjkyMjhjMzJmZGU1MTE2NTQ4Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTQxODQ4NjQ0NjgwNDYvbXBzLzdlYzlmZTczY2M2NDQ3MzliZWZiNjhlYTM3MDQxZGZkMTE3MTU4Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTY2MjUwMDk0NzY2MjkvbXBzL2ZhMDA1OGVkOTZiZDQ1OThiOTYwOTQwMTNkYWNhYzQyMTE4Njk4Lm1wNAo',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MjI0NjczNjAxMTQ3MjUvbXBzLzE4MjhkMGY0ZDUyMzQyOTI5NjNiN2QwZmUxNDI5YmQ0MTIwMTQwLm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MjQzMTAzOTMxMjc5NTEvbXBzLzNjODA5ZDBiZmJkMTQyYTFhMDNmNWUxMmU1OWY4YTdlMTIwNjk1Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MjY5MjkyNjQ3NzIxOTEvbXBzL2JlM2NiMWYyYzNhZDQ2ZDZhNDYxNDdlZWFiZGQzN2E5MTIyMjA1Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4NDQzNzI0MDkzNjk2OTcvbXBzLzAxNTgwMjA3Zjc4YTRkZjk5MzAzZGQ0MDA0ZDgzY2ZhMTI1MTE3Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4NDY1MDA1MDUxMTA1NjEvbXBzLzUzZWNhODIyZjBlYzRiOTFhODlkOGRlNjVlYWMyMDhkMTI2MzA0Lm1wNA',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4NDgzMDM2NDAyMDAyMzAvbXBzLzBlY2NkODI3ZTIyZDRlNDA5YmFmZDY3ZWU1ZWI3MjNhMjUzOC5tcDQ',
+    'https://vip86.github.io/c.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4NTAxMjg1MDMwOTc0MTIvbXBzLzZkMmVlZTVjNmUwNjQ2NzVhOGIzNWJlZDVmNDFiZDI0MTI3NjE0Lm1wNA',
     '',
     '',
     '',
@@ -54,22 +70,6 @@
     '',
     '',
     '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
      
     ];
 var sj = aa[Math.floor(Math.random()*aa.length)];
