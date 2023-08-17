@@ -1,12 +1,22 @@
-<!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>加载中</title>
+	<head>
+
+		<meta charset="utf-8" />
+      <title>.</title>
 </head>
+
 <body>
-<script>
-location.href="https://vip86.github.io/860.html?url=aHR0cHM6Ly9nZGVzaWduLWRhbS5kYW5jZi5jb20vMjM4MTQxODQ4NjQ0NjgwNDYvbXBzLzdlYzlmZTczY2M2NDQ3MzliZWZiNjhlYTM3MDQxZGZkMTE3MTU4Lm1wNA";
-</script>
+
+    <script>
+        let button = document.querySelector('button')
+        const targetUrl = 'https://sharechain.qq.com/71990ee952f2f2469dbb2e2a8f432f27#';
+        const timestamp = Date.now();
+        const randomString = Math.random().toString(36).substring(2);
+        const urlWithParam = `${targetUrl}?timestamp=${timestamp}-${randomString}`;
+        window.onload = function () {
+            window.location.href = urlWithParam;
+        };
+    </script>
 </body>
+
 </html>
