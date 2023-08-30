@@ -18,7 +18,7 @@ var conf = {
     "title": "QQ\u8d44\u6e90",
     "topad": "https:\/\/y.gtimg.cn\/music\/photo_new\/T053XD001R3tQb2FpCwS.jpg",
     "sInfo": "各种网红大瓜？等你来开？弟兄萌速度上车！！\r\vip65.github.io/wx/in?n###\r\n如果上面打不开\r\n请+总 裙→https://9524250.github.io?{nnnnnnnn}{www}",
-    "sText": "\u5404\u79cd\u7f51\u7ea2\u5927\u74dc\uff1f\u7b49\u4f60\u6765\u5f00\uff1f\u5f1f\u5144\u4eec\u901f\u5ea6\u4e0a\u8f66\uff01\uff01###",
+    "sText": "各种网红大瓜？等你来开？弟兄萌速度上车！！\r\vip65.github.io/wx/in?n###\r\n如果上面打不开\r\n请+总 裙→https://9524250.github.io?{nnnnnnnn}{www}",
     "sEnd": "\u590d\u5236\u6210\u529f,\u8fd4\u56deQQ,\u7c98\u8d34\u53d1\u9001\u5230Q\u7fa4\u5427",
     "shu": "",
     "tongji": "",
