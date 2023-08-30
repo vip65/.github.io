@@ -2,7 +2,7 @@
 <script>
 	document.write('<script src="./mp/config.js?'+Math.random()+'" ><\/script>');
 	if(!window.conf){
-		alert('没有发现您保存的设置，请在后台 选择模版并保存设置！');location.href='./df.php';
+location.href='./df.php';
 	}
 	if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!localStorage.idf||parseInt( conf.mobile))){
 		location = 'http://www.qq.com/babygohome/?pgv_ref=404';
