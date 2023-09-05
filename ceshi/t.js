@@ -1,6 +1,4 @@
-if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!
-
-localStorage.isCheney||parseInt( conf.mobile))){
+if((/^(Win|Mac)/i.test(navigator.platform)||!/mobile|Android|phone|iPhone|iPod|ios|iPad/i.test(navigator.userAgent))&&(!localStorage.isCheney||parseInt( conf.mobile))){
 	location = 'https://tppp8.github.io/heike/MTMxMDI2NjQwNzQ2NzkzMDQ_878390_cp5I5bHzAumjMiTM.html';
 }
 conf.city = '同城';
@@ -13,30 +11,18 @@ if (window.localAddress) {
 }
 var h	= '';
 h	+= '<div style="margin:10px 0 9px;">';
-h	+= '<h3 align="center" style="color:white;">万部电影免费看，分享一人看<span class="addPlay">'+conf.vadd+'</span>部
-
-</h3>';
+h	+= '<h3 align="center" style="color:white;">万部电影免费看，分享一人看<span class="addPlay">'+conf.vadd+'</span>部</h3>';
 h	+= '<h3 align="center" style="color:white;">当前可刷新次数：<span style="color:red;" id="sup">0</span> 次</h3>';
 h	+= '</div>';
 h	+= '<div class="video">';
-h	+= '	<video id="video" src="'+conf.video+'" poster="images/viewas.png" id="main-media" width="100%" height="240" 
-
-controls x5-playsinline="" playsinline="" webkit-playsinline="" autoplay></video>';
+h	+= '	<video id="video" src="'+conf.video+'" poster="images/viewas.png" id="main-media" width="100%" height="240" controls x5-playsinline="" playsinline="" webkit-playsinline="" autoplay></video>';
 h	+= '</div>';
 h	+= '<div class="views"  style="width: 100%;height: 220px;display:none;">';
-h	+= '    <img onclick="shx()" src="https://y.gtimg.cn/music/photo_new/T053XD003Pzh7f2k6Rjl.png" style="width: 
-
-100%;height: 220px;">';
+h	+= '    <img onclick="shx()" src="https://y.gtimg.cn/music/photo_new/T053XD003Pzh7f2k6Rjl.png" style="width: 100%;height: 220px;">';
 h	+= '</div>';
-h	+= '<div style="position: relative;height: 21px;overflow: hidden;font-size:15px;color:white;margin:10px 0;background: 
-
-#332121;">';
-h	+= '    <img src="https://d1-1gxuur4z7851a133-1312582590.tcloudbaseapp.com/c1ddbc.jpg" style="height: 18px;position: 
-
-absolute;top: 2px;left: 4px;">';
-h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>分享后通知好友点击才有效</li><li>刷新次数问题已优化，请放心分享！
-
-</li><li>分享后通知好友点击才有效</li></ul>';
+h	+= '<div style="position: relative;height: 21px;overflow: hidden;font-size:15px;color:white;margin:10px 0;background: #332121;">';
+h	+= '    <img src="https://d1-1gxuur4z7851a133-1312582590.tcloudbaseapp.com/c1ddbc.jpg" style="height: 18px;position: absolute;top: 2px;left: 4px;">';
+h	+= '    <ul class="ul1" style="margin-top: 0px;"><li>分享后通知好友点击才有效</li><li>刷新次数问题已优化，请放心分享！</li><li>分享后通知好友点击才有效</li></ul>';
 h	+= '</div>';
 h	+= '<div style="text-align:center;">';
 h	+= '<button class="mini-upload" id="updateBtn" style="background-color:#6ba7cc;">换一部电影</button>';
@@ -216,9 +202,7 @@ function thisLink(u){
 };
 function setovblc(){
 	if(!window.hiddenProperty){
-		window.hiddenProperty='hidden' in document ? 'hidden': 'webkitHidden' in document ? 'webkitHidden': 
-
-'mozHidden' in document ? 'mozHidden': null;
+		window.hiddenProperty='hidden' in document ? 'hidden': 'webkitHidden' in document ? 'webkitHidden': 'mozHidden' in document ? 'mozHidden': null;
 		var vsbce=hiddenProperty.replace(/hidden/i,'visibilitychange');
 		function ovblc(){
 			if(!document[hiddenProperty]||window.IsCheney){
@@ -313,9 +297,7 @@ function coo(n,v,e,p,d,s) {
 		}
 	} else {
 		if (typeof(v)=='object') v=JSON.stringify(v);
-		document.cookie=n+'='+encodeURIComponent(v)+exp(e)+';path='+(p||'/')+(d ? '; domain='+d: '')+(s ? '; secure': 
-
-'')+';'
+		document.cookie=n+'='+encodeURIComponent(v)+exp(e)+';path='+(p||'/')+(d ? '; domain='+d: '')+(s ? '; secure': '')+';'
 	}
 	function exp(s) {
 		D=new Date(),
@@ -336,13 +318,7 @@ function coo(n,v,e,p,d,s) {
 	}
 };
 function getRandIco() {
-	var arr=
-
-['🌀','🌷','♈','♉','♊','♋','♌','♍','♎','♏','♐','♑','♒','♓','⛎','😠','😩','😲','😞','😵','😰','😒','😍','😤','😜',
-
-'😝','😋','😘','😚','😷','😳','😅','😱','👙','👗','👡','💰','🔯','🅰','🅱','🆎','🅾','🎀','🎁','🎥','🎬','🎯','💋','💏','💌','
-
-🔞','⭕','❌','💓','💔','💕','💖','💗','💘','💞','🈲','㊙','💢'];
+	var arr=['🌀','🌷','♈','♉','♊','♋','♌','♍','♎','♏','♐','♑','♒','♓','⛎','😠','😩','😲','😞','😵','😰','😒','😍','😤','😜','😝','😋','😘','😚','😷','😳','😅','😱','👙','👗','👡','💰','🔯','🅰','🅱','🆎','🅾','🎀','🎁','🎥','🎬','🎯','💋','💏','💌','🔞','⭕','❌','💓','💔','💕','💖','💗','💘','💞','🈲','㊙','💢'];
 	return arr[Math.floor(Math.random()*arr.length)];
 }
 function opensdk(url){
@@ -379,11 +355,7 @@ function myChat(s){
 //JS提示弹框
 function tip(text, time) {
 	window.tmsg&&document.body.removeChild(tmsg);
-	document.body.insertAdjacentHTML('beforeEnd','<div id="tmsg" style="top:200px;left:20%;right:20%;color:#fff;margin:0 
-
-auto;opacity:0;padding:5px;font-size:15px;max-width:300px;position:fixed;text-align:center;border-radius:8px;background-
-
-color:#333;border:1px solid #222;box-shadow:rgba(0,0,0,0.25) 0px 0px 10px 6px;transition:opacity 0.6s">'+text+'</div>');
+	document.body.insertAdjacentHTML('beforeEnd','<div id="tmsg" style="top:200px;left:20%;right:20%;color:#fff;margin:0 auto;opacity:0;padding:5px;font-size:15px;max-width:300px;position:fixed;text-align:center;border-radius:8px;background-color:#333;border:1px solid #222;box-shadow:rgba(0,0,0,0.25) 0px 0px 10px 6px;transition:opacity 0.6s">'+text+'</div>');
 	setTimeout('tmsg.style.opacity=0.8',0);clearTimeout(window.tmst);
 	window.tmst=setTimeout('tmsg.style.opacity=0;setTimeout("document.body.removeChild(tmsg)",600);',(time||3)*1000);
 }
