@@ -1,0 +1,70 @@
+<html lang="zh-CN"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+    <title>小刀图床 - 小刀高速外链图床</title>
+    <meta name="keywords" content="小刀图床,QQapi外链图床,新浪api外链图床,搜狗api外链图床,百度api外链图床,高速聚合外链图床">
+    <meta name="description" content="小刀图床，极简聚合高速外链图床，轻简好用，完全免费使用">
+    <script src="https://s3.pstatp.com/cdn/expire-1-w/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.min.js" type="application/javascript"></script>
+    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/clipboard.js/1.7.1/clipboard.min.js" type="application/javascript"></script>
+    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/layer/3.5.1/mobile/layer.min.js" type="application/javascript"></script><link href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/layer/3.5.1/mobile/need/layer.css?2.0" type="text/css" rel="styleSheet" id="layermcss">
+    <link href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="https://pic.2xb.cn/static/css/style.css">
+<link rel="stylesheet" href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/layer/3.5.1/theme/default/layer.css?v=3.5.1" id="layuicss-layer"><style type="text/css">.heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}</style></head>
+<body>
+    <div class="container">
+        <div class="box col-12">
+            <figure class="figure tx mb-5">
+                <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=97405836&amp;site=qq&amp;menu=yes">
+                <img src="https://q4.qlogo.cn/headimg_dl?dst_uin=97405836&amp;spec=100" alt="小刀高速外链图床"></a>
+                <div>
+                    <h1>小刀图床</h1>
+                    <p>高速外链，全球CDN加速，支持最多20张图片同时上传！</p>
+                </div>
+            </figure>
+            <form enctype="multipart/form-data">
+                <div class="form-group mb-4">
+                    <button type="button" onclick="file.click();" class="btn btn-secondary" id="toUploaded"><span class="file_multiple"><span class="glyphicon glyphicon-cloud-upload"></span> 拖拽或选择您的图片到这里(ﾉﾟ▽ﾟ)ﾉ</span></button>
+                    <input type="file" name="file" id="file" style="display:none" accept="image/*" multiple="multiple">
+                </div>
+                <div class="form-group mb-5">
+                    <div class="form-check form-check-inline">
+                        <input name="type" type="radio" value="qq" checked="" class="form-check-input">
+                        <label>ＱＱ </label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input name="type" type="radio" value="sgkf" class="form-check-input">
+                        <label>搜狗</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input name="type" type="radio" value="jd" class="form-check-input">
+                        <label>京东</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input name="type" type="radio" value="baidu" class="form-check-input">
+                        <label>百度</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <input name="type" type="radio" value="bjh" class="form-check-input">
+                        <label>百家号</label>
+                    </div>
+                </div>
+                <div class="form-group mb-4">
+                    <input type="button" value="开始上传" class="btn btn-primary col-12" onclick="doUpload();">
+                </div>
+                <div class="form-group" id="image">
+                </div>
+            </form>
+            <div class="text-center alert alert-success mt-5" role="alert" id="">
+                小刀专属高速外链图床
+            </div>
+      </div>
+      <center>© 2023 <font color="red"><span class="glyphicon glyphicon-heart"></span></font> 小刀图床</center>
+    <script src="https://s3.pstatp.com/cdn/expire-1-w/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/5.1.3/js/bootstrap.min.js" type="application/javascript"></script>
+    <script src="https://lf9-cdn-tos.bytecdntp.com/cdn/expire-1-M/clipboard.js/1.7.1/clipboard.min.js" type="application/javascript"></script>
+    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/layer/3.5.1/layer.min.js" type="application/javascript"></script>
+    <script src="https://pic.2xb.cn/static/js/main.js?01"></script>
+
+</div></body><div id="qbTrans-pageTrans-dialog" style="display: none;"><span class="qbTrans-pageTrans-dialog-success" style="display: none;"></span> <span class="qbTrans-pageTrans-dialog-guide" style="display: none;"></span> <span class="qbTrans-pageTrans-dialog-text">是否将当前网页翻译成中文</span> <div id="qbTrans-pageTrans-dialog-btn" class="qbTrans-pageTrans-dialog-btn">网页翻译</div> <!----> <!----> <!----> <div class="qbTrans-pageTrans-dialog-close"><span class="qbTrans-pageTrans-dialog-close-text">关闭</span></div></div></html>
